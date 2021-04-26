@@ -35,7 +35,7 @@ The short film is an abstraction of the relationship between humans and water in
 "This is a wall dancing between the waters. A paradox that resides in our minds
 a weak and thin boundary. Stubborn men who draw cold borders on paper. Nature has been resilient to us. Nature got tired."
 
-### Images : 
+### Images: 
 
 ![](https://i.imgur.com/Og8jZaq.png)
 ![](https://i.imgur.com/OTn6TzH.png)
@@ -108,7 +108,7 @@ Mission 26 is the project of two renowned scientists from the Canadian-based sci
 ![](https://i.imgur.com/M9pvUUz.jpg)
 ![](https://i.imgur.com/qG7Y6mp.png)
 
-## Shoes are <not> for SALE, Simone Di Mauro & Alejandra Oros 
+## Shoes are \<not\> for SALE, Simone Di Mauro & Alejandra Oros 
 
 In Geneva, only 37% of the shorelines are publicly accessible. Despite the fact that, according to the Swiss civil code and the L.A.T. (Loi sur l'aménagement du territoire.), the public shouldbe able to have access to all lake and river shorelines. The reality is that Lake Leman, cannot be “walked” around by all citizens as the law said. In most cases, the path prescribed by law ended in front of the plots of wealthy landowners, cutting therefore a big part of a path that used to belong to all. The Lake, who had been the inspiration for many artists, and poets, including Mary Shelley’s masterpiece: “The Frankestein”, had become a place that only a few could enjoy. We decided then to do a set of images to show the privatization of Lake Leman, from different perspectives,taking as main protagonists the artifacts and traces of human’s attempt to conquer and own,not only the land around the lake, but the lake itself. 
 
