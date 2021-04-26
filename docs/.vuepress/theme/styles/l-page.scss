@@ -1,0 +1,21 @@
+.l-page {
+
+}
+
+.l-page__intro {
+
+  > *:first-child {
+    margin-top: 0;
+  }
+
+  p {
+    @include font-2;
+  }
+}
+
+.l-page__credit,
+.l-page__date {
+  + h2 {
+    margin-top: 25px;
+  }
+}

@@ -1,0 +1,55 @@
+// colors
+$site-theme-color: white;
+$site-color: invert($site-theme-color);
+
+
+// grid
+$line-height: 28px;
+$grid-gutter-width: $line-height;
+
+
+// font
+$font-family-default: 'InterText', sans-serif;
+$font-family-display: 'InterDisplay', sans-serif;
+
+$font-weight-default: 500;
+$font-weight-medium: 700;
+
+//// small
+$font-small--size: 15px;
+$font-small--line-height: $line-height / 4 * 3;
+$font-small--weight: $font-weight-default;
+
+//// regular
+$font-regular--size: 20px;
+$font-regular--line-height: $line-height;
+$font-regular--weight: $font-weight-default;
+
+//// semi bold
+$font-semi-bold--size: 48px;
+$font-semi-bold--line-height: $line-height * 2;
+$font-semi-bold--weight: $font-weight-default;
+
+$font-semi-bold-large--size: 50px;
+
+//// bold
+$font-bold--size: 78px;
+$font-bold--line-height: $line-height * 3;
+$font-bold--weight: $font-weight-medium;
+
+//// extra-bold
+$font-extra-bold--size: 105px;
+$font-extra-bold--line-height: $line-height * 4;
+$font-extra-bold--weight: $font-weight-medium;
+
+//// expend
+$font-expend--size: 132px;
+$font-expend--line-height: $line-height * 5;
+$font-expend--weight: $font-weight-medium;
+
+
+// elements
+$nav-height: $line-height / 4 * 5;
+$footer-height: $nav-height;
+//$header-article-height: 350px;
+$header-article-height: calc( 100vh - #{$line-height * 8} );

@@ -1,0 +1,120 @@
+@mixin font--2 {
+  $this-line-height: $font-small--line-height;
+
+  position: relative;
+  font-size:    $font-small--size;
+  line-height:  $this-line-height;
+  font-weight:  $font-small--weight;
+
+  margin-top: $this-line-height;
+  margin-bottom: $this-line-height;
+
+   //top: 6px;
+}
+
+@mixin font--1 {
+  @include font--2;
+
+  font-weight: $font-weight-medium;
+}
+
+@mixin font-0 {
+  $this-line-height: $font-regular--line-height;
+
+  position: relative;
+  font-size: $font-regular--size;
+  line-height: $this-line-height;
+  font-weight: $font-regular--weight;
+
+  margin-top: $this-line-height;
+  margin-bottom: $this-line-height;
+}
+
+@mixin font-1 {
+  @include font-0;
+
+  font-weight: $font-weight-medium;
+}
+
+@mixin font-2 {
+  $this-line-height: $font-semi-bold--line-height;
+
+  font-family: $font-family-display;
+
+  position: relative;
+  font-size: $font-semi-bold--size;
+  line-height: $this-line-height;
+  font-weight: $font-semi-bold--weight;
+
+  margin-top: $this-line-height;
+  margin-bottom: $line-height;
+
+  letter-spacing: -0.025em;
+
+   //top: -24px;
+}
+
+@mixin font-3 {
+  @include font-2;
+
+  font-size: $font-semi-bold-large--size;
+
+  font-weight: $font-weight-medium;
+
+  margin-top: $line-height * 3;
+
+  letter-spacing: -0.015em;
+}
+
+@mixin font-4 {
+  $this-line-height: $font-bold--line-height;
+
+  font-family: $font-family-display;
+
+  position: relative;
+  font-size: $font-bold--size;
+  line-height: $this-line-height;
+  font-weight: $font-bold--weight;
+
+  margin-top: $this-line-height;
+  margin-bottom: $line-height;
+
+  //top: -20px;
+}
+
+@mixin font-5 {
+  $this-line-height: $font-extra-bold--line-height;
+
+  font-family: $font-family-display;
+
+  position: relative;
+  font-size: $font-extra-bold--size;
+  line-height: $this-line-height;
+  font-weight: $font-extra-bold--weight;
+
+  margin-top: $this-line-height;
+  margin-bottom: $line-height * 2;
+
+   //top: -12px;
+}
+
+@mixin font-6 {
+  $this-line-height: $font-expend--line-height;
+
+  font-family: $font-family-display;
+
+  position: relative;
+  font-size: $font-expend--size;
+  line-height: $this-line-height;
+  font-weight: $font-expend--weight;
+
+  margin-top: $this-line-height;
+  margin-bottom: $line-height * 2;
+
+  letter-spacing: -0.025em;
+
+   //top: -12px;
+}
+
+
+

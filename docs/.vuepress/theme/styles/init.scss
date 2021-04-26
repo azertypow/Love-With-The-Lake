@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: $site-color;
+  color: $site-color;
+  //scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-family-default;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-size: $font-regular--size;
+  line-height: $font-regular--line-height;
+  font-weight: $font-regular--weight;
+}
+
+h6 {
+  @include font--2;
+}
+h2 + h6 {
+  margin-top: - $line-height;
+}
+
+
+h5 {
+  @include font--1;
+}
+
+p {
+  @include font-0;
+}
+
+h4 {
+  @include font-1;
+}
+
+h3 {
+  @include font-2;
+}
+
+h2 {
+  @include font-3;
+}
+
+h1 {
+  @include font-6;
+}
+
+.l-font-tab-number {
+  font-feature-settings: 'kern' 1, 'tnum' 1;
+}
