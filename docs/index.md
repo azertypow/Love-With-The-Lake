@@ -1,185 +1,164 @@
+Lien Drive / https://drive.switch.ch/index.php/s/GYwXRiVvEpqYFNu?path=%2F3.Documentation#/ 
+
+# I Fell In Love With The Lake
+
+## A workshop reverie with Marie Dommenget and Sabrina Calvo
+
+
+Professors
+Sabrina Calvo 
+Marie Dommenget 
+
+Students
+Béatrice Gorelli 
+Chloé Michel 
+Manon Waneukem
+Alexandre Moura Ferreira
+Paul Bellon-Serre
+Maÿlis D'Haultfoeuille
+Lison Christe
+Simone Di Mauro
+Alejandra Oros
+Thibaud Goiffon
+Tiki Bordin 
+Maxime Magnin
+
+
+Between a flight to the sky of Geneva or a deep dive in the fresh water of Lake Leman, this project examines the impact of digital technologies on the evolution of Geneva’s biosphere. Using 3D modeling tools and animation techniques, we will imagine the digital skies and lakes of tomorrow, revealing the species, living ecosystems, and the unknown objects that will inhabit them. Between fictional, dreamlike and speculative interpretations, results of the project will be a collection of 3D animations or 3D visuals.
+
+This workshop is part of our ongoing investigation of carving new roles for designers in the ecological crisis. How can we engage citizens into understanding the state of our planet? What types of original formats can we invent to tell stories about our environment?
+
+## Béatrice Gorelli, Colliding Corpuses
+
+The short film is an abstraction of the relationship between humans and water in the context of geographical boundaries. It introduces the paradoxical theme of the division of the waters between Switzerland and France on Lake Léman.
+
+"This is a wall dancing between the waters. A paradox that resides in our minds
+a weak and thin boundary. Stubborn men who draw cold borders on paper. Nature has been resilient to us. Nature got tired."
+
+### Images : 
+
+![](https://i.imgur.com/Og8jZaq.png)
+![](https://i.imgur.com/OTn6TzH.png)
+![](https://i.imgur.com/PCeHyfU.png)
+![](https://i.imgur.com/3NkAyeN.png)
+![](https://i.imgur.com/4DsR06X.png)
+
+
+## Hypoxia, Chloé Michel
+
+Hypoxia is the medical term referring to a lower-than-normal concentration of oxygen in tissue, which can lead to anoxia, a complete absence of oxygen and thus to death. As human artificializes Lac Léman to adapt it to its activities, wether it is by cutting it’s underwater vegetation so swimmers can enjoy a clear water or using the water as a medium to heat the cities, it disturbs the natural oxygenation of the lake, necessary to the survival of its ecosystem.Hypoxia takes the form of a tryptic in which the lake, taking human form, suspended in water and in time, is being asphyxiated by a plastic-like material.
+
+
+![](https://i.imgur.com/N4CyFQb.png)
+
+![](https://i.imgur.com/ipg0jcW.png)
+
+![](https://i.imgur.com/0zwtSrQ.png)
+
+## L'envers, Manon Waneukem 
+
+CONTROL. NEED. POWER. Nature is no longer natural. Only appearances remain. This project uses poetical 3D visuals to explore the conflict between nature and artificial artefacts. It interrogates our need to control and to claim things as our own.
+
+![](https://i.imgur.com/b7mqlDJ.jpg)
+
+![](https://i.imgur.com/YIbtsCs.jpg)
+
+## The Lake, Alexandre Moura Ferreira & Paul Bellon-Serre
+
+The Lake is a short film that mixes 3D animations and filmed images. It immerses the viewer on a cruise on Lake Geneva. The waters are populated by fantastic creatures from the waste that live at the bottom of the Lake. As we go on the cruise, we discover a half-organic, half-plastic ecosystem that developed in the lake abyss. The soundtrack of the film is an excerpt from the poem Le Lac d'Alphonse by Lamartine, performed by Pol Plançon.
+
+![](https://i.imgur.com/hFzGvLA.jpg)
+![](https://i.imgur.com/lpK04oS.jpg)
+![](https://i.imgur.com/Z2NDIdS.jpg)
+![](https://i.imgur.com/qrwshHw.jpg)
+
+
+## Mission 26, Maÿlis D'Haultfoeuille & Lison Christe
+
+Mission 26 is the project of two renowned scientists from the Canadian-based scientific research group for the aquatic environment; the CSRGAE. After a short study on the shores of Lake Geneva, Maÿlis D'Haultfoeuille and Lison Christe were able to observe that this well known lake still raises many questions. In particular on the nature of its bottom. Historically, Mrs Piccard, father and son already tried to probe the depths, but the results remained very foggy. This was all it took for the two scientists to embark on a poignant adventure in search of the real shape of Lake Geneva and to discover its previously unknown overflowing flora and fauna. 
+
+
+![](https://i.imgur.com/0QA440m.jpg)
+![](https://i.imgur.com/EePHQxb.png)
+![](https://i.imgur.com/O4R9DXD.png)
+![](https://i.imgur.com/svtZkHf.png)
+![](https://i.imgur.com/pIl1qSw.png)
+![](https://i.imgur.com/Q88AR9S.png)
+![](https://i.imgur.com/oO0EEMT.png)
+![](https://i.imgur.com/6C9DxDB.png)
+![](https://i.imgur.com/X18Z9cM.jpg)
+![](https://i.imgur.com/kDUmSNX.png)
+![](https://i.imgur.com/QyLiTlX.jpg)
+![](https://i.imgur.com/xfG51xx.png)
+![](https://i.imgur.com/d13WuMG.png)
+![](https://i.imgur.com/mlczMao.jpg)
+![](https://i.imgur.com/1xNHhrs.jpg)
+![](https://i.imgur.com/PxJyPBF.png)
+![](https://i.imgur.com/kCjZAg5.png)
+![](https://i.imgur.com/ZLVcr3T.png)
+![](https://i.imgur.com/DNP6viq.png)
+![](https://i.imgur.com/RRTCvYH.png)
+![](https://i.imgur.com/LZXFjM6.png)
+![](https://i.imgur.com/3NnkKeP.png)
+![](https://i.imgur.com/eo0Tcid.png)
+![](https://i.imgur.com/zzXyEHF.png)
+![](https://i.imgur.com/vhgDXfE.png)
+![](https://i.imgur.com/A0Ya0AW.jpg)
+![](https://i.imgur.com/fMiGfE9.jpg)
+![](https://i.imgur.com/M9pvUUz.jpg)
+![](https://i.imgur.com/qG7Y6mp.png)
+
+## Shoes are <not> for SALE, Simone Di Mauro & Alejandra Oros 
+
+In Geneva, only 37% of the shorelines are publicly accessible. Despite the fact that, according to the Swiss civil code and the L.A.T. (Loi sur l'aménagement du territoire.), the public shouldbe able to have access to all lake and river shorelines. The reality is that Lake Leman, cannot be “walked” around by all citizens as the law said. In most cases, the path prescribed by law ended in front of the plots of wealthy landowners, cutting therefore a big part of a path that used to belong to all. The Lake, who had been the inspiration for many artists, and poets, including Mary Shelley’s masterpiece: “The Frankestein”, had become a place that only a few could enjoy. We decided then to do a set of images to show the privatization of Lake Leman, from different perspectives,taking as main protagonists the artifacts and traces of human’s attempt to conquer and own,not only the land around the lake, but the lake itself. 
+
+![](https://i.imgur.com/DdcFRYT.jpg)
+![](https://i.imgur.com/gyWk6br.jpg)
+![](https://i.imgur.com/2nluHWF.jpg)
+![](https://i.imgur.com/cFpKWJr.jpg)
+
+
+## Staggering Dive, Thibaud Goiffon
+
+A slow descent into dark foggy waters, something unsettling seems hidden... Light passes through strange bodies revealing their presence. You touch the bottom as the last light glimmers fade.
+
+![](https://i.imgur.com/Xyi7P6l.jpg)
+![](https://i.imgur.com/KN9EYxb.jpg)
+![](https://i.imgur.com/FY4RXsR.png)
+![](https://i.imgur.com/ZkjcpEe.png)
+![](https://i.imgur.com/es6n7ez.png)
+![](https://i.imgur.com/91rmrtc.png)
+![](https://i.imgur.com/hOO6HZG.png)
+![](https://i.imgur.com/7gJ4kkD.png)
+![](https://i.imgur.com/0QCaiph.jpg)
+![](https://i.imgur.com/3ZD5zGt.png)
+![](https://i.imgur.com/RukiQyP.png)
+![](https://i.imgur.com/Y3GWEWI.jpg)
+
+
+## Tauredunum 2100, Tiki Bordin 
+
+![](https://i.imgur.com/A5iLilm.jpg)
+![](https://i.imgur.com/YlkasNj.jpg)
+![](https://i.imgur.com/D5ls3ss.png)
+![](https://i.imgur.com/G1uzuUA.jpg)
+
+
+## Dentritogenèse, Maxime Maugin 
+
+What if we rethink the practice of 3D tools by giving them new parameters: dreams, water and the matter of digital synthesis. The aims is to intiate a research work in art, aiming to reflect on the tool and uses of digital synthesis, without being encumbered with a dubious globality. Indeed, the starting postulate is deliberately specific and arbitrary. The method consists of analyzing the materiality of each of these parameters to extract properties. This work will be achieved through the creation of various tools useful for the development of this new practice.
+
+
+![](https://i.imgur.com/GDpihjA.jpg)
+![](https://i.imgur.com/n5vWffN.jpg)
+
+
+
 ---
-
-professors:
-- Marie Dommenget: http://www.mariedommenget.com
-- Nicolas Nova: https://www.hesge.ch/head/en/annuaire/nicolas-nova
-
-students:
-- Gabriel Abergel
-- Leyla Baghirli
-- Aurélie Belle
-- Amsatou Diop
-- Laís Kunzendorff
-- Johan Pardo
-
-assistants:
-
-date: 10.04.2020
-
-cover:
-
-cover-color: ""
-
-draft: false
-
----
-
-# Alpine Technosphere
-
-::: intro
-
-How do we live with technologies in the mountains? How do technologies influence our relationship with the alpine environment? What does this presence of human infrastructure mean in the context of the environmental crisis?
-
-:::
-
-The elements shown on this website reflects the material we collected and produced during a workshop that combined field research methods and 3D design. This workshop, completed in January 2020, aimed at documenting the place of technologies and their integration in the Alpine landscape, taking the case of the Chamonix Valley as an example. This theme was based on current debates about the environmental crisis and its many facets (climate change, pollution, biodiversity breakdown). We chose to address this topic through a poetic observation of the [Technosphere](https://technosphere-magazine.hkw.de/p/Peter-K-Haff-9xPhMR94HxWA8LJ6GHmTPm), i.e. the set of infrastructure that humans have built for their activities (habitats, factories, farms, transport systems, computers, tourism, etc.) Rather than denouncing the presence of technical objects in an environment often thought of as “natural” and pristine, the posture we adopted consisted in grasping the use of technologies in this context in order to explore our relationship with the alpine environment.
-
-We spent several days in the Chamonix Valley, documenting the presence of different kinds of technologies (ski lift, roads, mountain vehicles such as snow plows and bobcats, former mines and quarries). Using field research methods such as photography, photo scanning techniques, video, sound recording, electromagnetic waves detection as well as drawings, we collected material that we turned into 3D pieces to express our observations. Some were interested in artificial snow machines, others in former mines, or glacial boulders turned into gravestones as well as the general atmosphere of the Valley.
-
-At the crossroads of design and ethnography, this workshop aimed to teach the importance of observation in the context of the environmental crisis. While designers are often asked to find “solutions”, we chose to take a step back and adopt a different approach. Our field trip aimed to understand local parameters and constraints of the man-made technosphere, in order to highlight the various ranges of technological issues at stake in a mountain context. We hope that such projects can add nuances about the future ways of living in the Alps.
-
-
-## Interview with the Alps
-###### by Gabriel Abergel and Johan Pardo
-
-
-::: vimeo https://vimeo.com/392232368
-
-Interview with the Alps
-
-Gabriel Abergel, Johan Pardo
-
-:::
-
-
-Exploration and data collection in the Chamonix valley, as part of research on the technosphere and its hybridization with nature.  
-Guided by the senses, we followed the sounds of the valley, from the urban sounds to the sounds of nature, while identifying the images associated with them. During this 3-day interview of the valley, we were able to reveal, thanks to the different samples taken, a soundscape that we showed through a 3-dimensional visualization.
-
-
-![Interview with the Alps | @Head – Genève, Gabriel Abergel, Johan Pardo](https://i.imgur.com/HTEnRFG.jpg)
-![Interview with the Alps | @Head – Genève, Gabriel Abergel, Johan Pardo](https://i.imgur.com/JLa54TP.jpg)
-
-![Interview with the Alps | @Head – Genève, Gabriel Abergel, Johan Pardo](https://i.imgur.com/V4iLLB6.jpg)
-![Interview with the Alps | @Head – Genève, Gabriel Abergel, Johan Pardo](https://i.imgur.com/G2Ej4GM.jpg)
-![Interview with the Alps | @Head – Genève, Gabriel Abergel, Johan Pardo](https://i.imgur.com/0sNMJIS.jpg)
-
-
-::: vimeo https://vimeo.com/392233275
-
-Interview with the Alps  
-(research)
-
-Gabriel Abergel, Johan Pardo
-
-:::
-
-
-::: vimeo https://vimeo.com/392233625
-
-Interview with the Alps  
-(research)
-
-Gabriel Abergel, Johan Pardo
-
-:::
-
-
-## Rock Station, Artificial Stones
-###### by Amsatou Diop and Aurelie Belle
-
-::: vimeo https://vimeo.com/392229089
-
-Rock Station
-Artificial Stones
-
-Amsatou Diop, Aurelie Belle
-
-:::
-
-
-We wantedto start by looking at the common and must known places in Chamonix. In each place we visited, we tried to lookfor stones that would be interesting for us. Each stone was then put ina plastic bag whit a number and the GPS coordinates of where we found the stones put on maps.
-
-The big stone present on the final project is the one we found at the cemetery. Covered in snow and grass, it struck us by the fact that it wasn’t there by nature but brought there by man. We took pictures of it to scan it and import in 3D.
-
-After our research we realized that we found 3 types of stones:
-- Natural stones: with natural composition
-- Hybrid stones: between natural composition and modified by men
-- Artificial stones: modified by men
-
-To showcase the different textures and stones abrasions, we decided to reproduce in 3D, the majestual stone we found in the cemetery. We draw our path around the stone, allowing the viewer to go aroundit and with every turn the texture of the stone changes to reveal a new texture.This is our way to make each viewer travel on the same path we tookand discovering Chamonix trough his stones.
-
-Three shorts videos where also made to showcase the three types of stones with a light to differentiatethem (natural light for natural stones, exaggeratedwhite light for hybridstones and blue/purple light for artificial stones).
-
-
-::: vimeo https://vimeo.com/392225236
-
-Rock Station
-Artificial Stones  
-(research)
-
-Amsatou Diop, Aurelie Belle
-
-:::
-
-
-::: vimeo https://vimeo.com/392228733
-
-Rock Station
-Artificial Stones  
-(research)
-
-Amsatou Diop, Aurelie Belle
-
-:::
-
-
-::: vimeo https://vimeo.com/392227662
-
-Rock Station
-Artificial Stones  
-(research)
-
-Amsatou Diop, Aurelie Belle
-
-:::
-
-
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/aXCPL8N.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/dQ7eZjp.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/nM9qdJJ.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/UhSNMsg.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/awXk9dA.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/V9L1A5A.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/IYjW4In.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/f2O5tgU.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/llPPurD.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/QPXhb5C.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/vsWnKt2.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/e4hV84d.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/eA7HfOv.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/2L9FTUD.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/tKj1nVJ.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/vH13I3g.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/9qA9rQY.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/vDZyjqG.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/GFN8iLi.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/MBrsRnj.jpg)
-![Rock Station, Artificial Stones | @Head – Genève, Amsatou Diop, Aurelie Belle](https://i.imgur.com/hz9A9vV.jpg)
-
-
-
-## Materia Prima
-###### by Laís Kunzendorff
-
-![Materia Prima | @Head – Genève, Laís Kunzendorff](https://i.imgur.com/0G0lWjs.jpg)
-
-![Materia Prima | @Head – Genève, Laís Kunzendorff](https://i.imgur.com/PY9YP4u.jpg)
-
-![Materia Prima | @Head – Genève, Laís Kunzendorff](https://i.imgur.com/d1b0MjC.jpg)
-
-
-*Matera Prima* is an invitation to imagine post-apocalyptic scenarios of exploration of raw materials in the geographical context of the French Alps (Chamonix - Montblanc). Taking as a starting point the way in which mineral exploration has been carried out in developing countries, in particular iron ore and precious metals exploration cicles in Brazil, this work intends to make visible the consequences of exploration, devastation and environmental neglect by large corporations operating in these countries.
-
-![Materia Prima | @Head – Genève, Laís Kunzendorff](https://i.imgur.com/SxywkGV.jpg)
-![Materia Prima | @Head – Genève, Laís Kunzendorff](https://i.imgur.com/AOBBW9S.jpg)
-![Materia Prima | @Head – Genève, Laís Kunzendorff](https://i.imgur.com/Hj4Wsnc.jpg)
+# Video
+
+- Hypoxia, Chloé Michel
+- L'envers, Manon Waneukem 
+- Le lac, Alexandre Moura Ferreira & Paul Bellon-Serre
+- Tauredunum 2100, Tiki Bordin 
+- CollidingCorpus, Béatrice Gorelli
