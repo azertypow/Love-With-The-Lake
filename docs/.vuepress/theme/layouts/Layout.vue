@@ -10,8 +10,7 @@
       minHeight: mainMinHeight
     }">
 
-      <div class="l-app-content__info"
-           v-if="$page.path !== '/'">
+      <div class="l-app-content__info">
 
 
         <div class="l-app-content__info__left">
@@ -32,7 +31,6 @@
       </div>
 
       <h1
-              v-if="$page.path !== '/'"
               class="l-app-content__title"
               v-html="this.articleTitle"></h1>
 

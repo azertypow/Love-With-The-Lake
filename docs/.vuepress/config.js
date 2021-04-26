@@ -13,7 +13,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    articlesNames: "series"
+    articlesNames: "festival"
   },
 
   markdown: {

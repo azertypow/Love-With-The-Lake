@@ -20,7 +20,7 @@
 
                 <div class="v-footer__top__right">
                     <h6 @click="toggleAbout" >
-                        <span class="l-ui-link-no-style">© 2020 Master Media Design, Head&nbsp;–&nbsp;Genève</span>
+                        <span class="l-ui-link-no-style">© 2021 Master Media Design, Head&nbsp;–&nbsp;Genève</span>
                     </h6>
         <!--            <h6><span >Nicolas Baldran et David Héritier</span></h6>-->
                 </div>
